@@ -12,14 +12,13 @@ module.exports = {
   author: 'phil',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'YOLO',
+  socialImageTitle: '：）',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'phil94921145',
   github: 'philhappy',
-  linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
